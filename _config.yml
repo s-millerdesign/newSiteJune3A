@@ -2,6 +2,7 @@ name: "SM First Jekyll Site"
 description: "my description"
 
 url: "http://s-millerdesign.github.io/newSiteJune3A"
+baseurl: "/newSiteJune3A"
 
 paginate: 10 #quotes not needed, means make new page after 10 posts as generalization
 
